@@ -13,7 +13,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 
-mail <a href="mailto:srushtikhandelwal1205@gmail.com"><b>email</b></a> me.
+<a href="mailto:srushtikhandelwal1205@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
 
